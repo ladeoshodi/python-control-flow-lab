@@ -181,7 +181,6 @@ weather_advice()
 # - Use 'in' to check if a string is in a list or tuple.
 # - Adjust the season based on the day of the month when needed.
 # - Ensure to validate input formats and handle unexpected inputs gracefully.
-import datetime 
 
 def determine_season():
     # Your control flow logic goes here
